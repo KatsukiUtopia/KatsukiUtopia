@@ -1,7 +1,7 @@
 body {
   line-height: 1.5;
-  background: url(../images/header.jpg);
-  color: white;
+  background: url(../images/chongshi-red.jpg);
+  color: lightgray;
   font-family: "microsoft yahei";
   /* 以下代码为全屏图片的实现方式，请勿改动 */
   background-size: cover;
@@ -11,14 +11,14 @@ body {
 
 .container {
   width: 50%;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.2);
   margin: 30px;
   padding: 10px;
   border-radius: 10px;
 }
 
 a {
-	color: #00F9A5;
+	color: #550000;
 	text-decoration: none;
 }
 
